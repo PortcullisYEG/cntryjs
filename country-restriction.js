@@ -30,7 +30,6 @@ function block_blacklist_countries() {
         "UA", // Ukraine
         "DE", // Germany
         "FI", // Finland
-        "CA", // Canada
         "JP", // Japan
         "NO", // Norway
         "RU" // Russia
