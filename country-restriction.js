@@ -31,7 +31,7 @@ function block_blacklist_countries() {
         "DE", // Germany
         "FI", // Finland
         "JP", // Japan
-        "CA", // Norway
+        "NO", // Norway
         "RU" // Russia
     ]
 
