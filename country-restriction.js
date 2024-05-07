@@ -26,11 +26,9 @@ function display_access_denied_error() {
 function block_blacklist_countries() {
     // Blacklist countries
     const blacklist_countries = [
-        "DE", // Germany
-        "US", // United States
-        "GB", // United Kingdom
+        "CN", // China
         "UA", // Ukraine
-        "AR", // Argentina
+        "DE", // Germany
         "FI", // Finland
         "CA", // Canada
         "JP", // Japan
